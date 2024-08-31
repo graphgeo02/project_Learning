@@ -1,0 +1,20 @@
+{
+    "user":[
+        {
+            "id": "amadichile2@gmail.com",
+            "fullName": "Amadi blue",
+            "gender": "male",
+            "terms": true,
+            "password":"0000000Hh1&",
+            "role": "normal"
+        },
+        {
+            "id": "amadichile3@gmail.com",
+            "fullName": "Amadi blue",
+            "gender": "male",
+            "terms": true,
+            "password":"0000000Hh1&",
+            "role": "admin"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+#Optimization2{
+display: grid;
+grid-template-columns: (1fr);
+place-items: center;
+ gap: 1rem;
+#Line1{
+    height: 250px;
+    border: 1px solid red;
+    width: 95%;
+}
+#Line2{
+    height: 60vh;
+    border: 1px solid blue;
+    width: 95%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    .images{
+        display: grid;
+        grid-template-columns: repeat( 3, 1fr);
+        gap: 0.5rem;
+        place-items: center;
+    }
+}
+}
